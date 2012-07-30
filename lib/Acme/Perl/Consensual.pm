@@ -6,7 +6,7 @@ use POSIX qw(mktime floor);
 
 BEGIN {
 	$Acme::Perl::Consensual::AUTHORITY = 'cpan:TOBYINK';
-	$Acme::Perl::Consensual::VERSION   = '0.000_02';
+	$Acme::Perl::Consensual::VERSION   = '0.001';
 };
 
 # Mostly sourced from
@@ -819,5 +819,9 @@ __DATA__
      Ricardo  5.16.0-RC0    2012-May-10
      Ricardo  5.16.0-RC1    2012-May-14
      Ricardo  5.16.0-RC2    2012-May-15
-     Ricardo  5.16.0        2012-May-20
 
+     Ricardo  5.16.0        2012-May-20     The 5.16 maintenance track
+
+     Zefram   5.17.0        2012-May-26     The 5.17 development track
+     Jesse L  5.17.1        2012-Jun-20
+     TonyC    5.17.2        2012-Jul-20
