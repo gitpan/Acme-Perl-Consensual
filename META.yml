@@ -30,4 +30,6 @@ resources:
   homepage: https://metacpan.org/release/Acme-Perl-Consensual
   license: http://dev.perl.org/licenses/
   repository: https://github.com/tobyink/p5-acme-perl-consensual
-version: 0.001
+version: 0.002
+x_contributors:
+  - 'Michael G Schwern <mschwern@cpan.org>'
